@@ -1,7 +1,7 @@
-## Couch to Coder 2025 - Bright Network
+### Couch to Coder 2025 - Bright Network
 Learning the basic fundamentals of coding with a hands on approach- building a Recipe app.
 
-# Link
+## Link
 https://www.brightnetwork.co.uk/bright-network-events/couch-to-coder-2025
 
 ## Lessons
